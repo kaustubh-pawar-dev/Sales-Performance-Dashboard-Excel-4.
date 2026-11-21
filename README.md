@@ -1,5 +1,7 @@
 # 📊 Sales Performance Dashboard | Excel
 
+![Sales Performance Dashboard](dashboard-preview.png)
+
 An interactive Sales Performance Dashboard built using Microsoft Excel to analyze sales performance, revenue trends, customer behavior, and regional performance.
 
 ## 🎯 Project Overview
